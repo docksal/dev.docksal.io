@@ -51,6 +51,14 @@ module.exports = {
     },
     `gatsby-plugin-sharp`,
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-sass`
+    `gatsby-plugin-sass`,
+    {
+      resolve: 'gatsby-plugin-crisp-chat',
+      options: {
+        websiteId: 'aac036c5-c316-4d29-81be-5f6ce819b06d',
+        // Optional. Disables Crisp Chat during gatsby develop. Defaults to true.
+        enableDuringDevelop: false,
+      },
+    },
   ],
 }

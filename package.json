@@ -8,6 +8,7 @@
     "gatsby-cli": "^1.1.58",
     "gatsby-image": "^1.0.42",
     "gatsby-link": "^1.6.39",
+    "gatsby-plugin-crisp-chat": "^2.1.0",
     "gatsby-plugin-google-tagmanager": "^1.0.19",
     "gatsby-plugin-react-helmet": "^1.0.8",
     "gatsby-plugin-sass": "^1.0.23",
